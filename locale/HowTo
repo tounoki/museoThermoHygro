@@ -1,0 +1,15 @@
+HOWTO Gettext
+
+xgettext -kT_gettext -kT_  --from-code=utf-8 *.php
+dans le dossier où il y a les fichiers avec les textes
+
+Editer avec PoEdit
+Valider
+
+Le nom du fichier est donné par :
+
+date_default_timezone_set('Europe/Paris');
+//setlocale(LC_ALL, array('fr_FR.UTF-8','fr_FR@euro','fr_FR','french'));
+setlocale(LC_ALL, array('en_US.UTF-8','en_US','en_US','english'));
+bindtextdomain("front", "./locale") ; // Spécifie la localisation des tables de traduction
+textdomain("front") ; > front.po et front.mo

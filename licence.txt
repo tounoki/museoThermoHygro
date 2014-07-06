@@ -1,0 +1,28 @@
+Copyright © 2011 Nicolas POULAIN
+nicolas.poulain@ouvaton.org - http://tounoki.org
+
+**fr**
+
+Ce logiciel est un programme informatique de galerie de portraits, servant à afficher et générer des portraits images et textes de personnes participant à un évènement.
+Il se nomme WeAreMuseomix
+
+Ce fichier est une partie de WeAreMuseomix.
+
+RaR est un logiciel libre ; soumis à une licence libre, tel qu'expliqué
+ci-dessous
+
+Vous pouvez le redistribuer ainsi que le modifier dès lors que vous respectez
+les termes de la licence Cecill, comme publiée par CeCILL, dans sa version 2 (Fichier Cecillv2.txt) ou ultérieure.
+/Conformément à la FAQ présentée sur www.cecill.info, l'auteur considère
+qu'une utilisation par le réseau du logiciel est assimilable à une
+distribution/
+
+**en**
+
+WeAreMuseomix is a free software; subjected to a free license.
+
+You can redistribute it and/or modify it if you respect the terms of
+the CeCILL as published by CeCILL; either version 2 of the License (Cecillv2.txt), or any
+later version.
+/In accordance to the FAQ published on www.cecill.info, the author considers
+that using the software through a network is a kind of distribution/
