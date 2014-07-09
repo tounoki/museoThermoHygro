@@ -1,12 +1,13 @@
-Copyright © 2011 Nicolas POULAIN
+Copyright © 2011-2014 Nicolas POULAIN
 nicolas.poulain@ouvaton.org - http://tounoki.org
 
 **fr**
 
-Ce logiciel est un programme informatique de galerie de portraits, servant à afficher et générer des portraits images et textes de personnes participant à un évènement.
-Il se nomme WeAreMuseomix
+Ce logiciel est un programme informatique de visualisation de relevés thermo-hygrométriques avec analyse des résultats.
 
-Ce fichier est une partie de WeAreMuseomix.
+Il se nomme MuseoThermoHygro.
+
+Ce fichier est une partie de MuseoThermoHygro.
 
 RaR est un logiciel libre ; soumis à une licence libre, tel qu'expliqué
 ci-dessous
