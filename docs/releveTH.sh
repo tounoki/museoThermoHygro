@@ -5,7 +5,7 @@ RECORD=$(/home/pi/adafruit/Adafruit-Raspberry-Pi-Python-Code-master/Adafruit_DHT
 while [[ $RECORD != Temp* ]]
 do
         sleep 2
-        RECORD=$(/home/pi/adafruit/Adafruit-Raspberry-Pi-Python-Code-master/Adafruit_DHT_Driver/Adafruit_DHT 22 4 | grep $
+        RECORD=$(/home/pi/adafruit/Adafruit-Raspberry-Pi-Python-Code-master/Adafruit_DHT_Driver/Adafruit_DHT 22 4 | grep $)
 done
 
 T=`expr match "$RECORD" '\(.* \*C\)'`
